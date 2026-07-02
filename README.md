@@ -29,11 +29,11 @@ microservices, and AI-assisted developer tooling.
 ## Technical Focus
 
 ```text
-Java              Kafka              Spring Boot
-PostgreSQL        Kubernetes         AWS
-Flink             Docker             Datadog
-Distributed systems                  Event-driven architecture
-AI agents and LLM integrations       Developer tooling
+Java                            Kafka              Spring Boot
+PostgreSQL                      Kubernetes         AWS
+Flink                           Docker             Datadog
+Distributed systems             Event-driven architecture
+AI agents and LLM integrations  Developer tooling
 ```
 
 ## Public Work
