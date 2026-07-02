@@ -43,7 +43,7 @@ AI agents and LLM integrations       Developer tooling
   codebases.
 - [memgraph-ingester-mcp](https://github.com/ousatov-ua/memgraph-ingester-mcp) -
   MCP integration for Memgraph Ingester.
-- [lean-ctx](https://github.com/ousatov-ua/lean-ctx) - Lean Context Engineering 
+- [lean-ctx](https://github.com/yvgude/lean-ctx) - Contributing to Lean Context Engineering 
   for AI agents
 - [task-manager](https://github.com/ousatov-ua/task-manager) - lightweight
   Java 21/25 library for parallel task processing with built-in backpressure.
