@@ -1,0 +1,46 @@
+title: "Portfolio Template"
+name: "Your Name"
+description: "Academic and professional portfolio"
+url: "https://ousatov-ua.github.io"
+baseurl: "/ousatov-ua"
+repository: "ousatov-ua/ousatov-ua"
+locale: "en-US"
+timezone: "Europe/Kyiv"
+
+permalink: /:categories/:title/
+markdown: kramdown
+highlighter: rouge
+
+include:
+  - _pages
+
+exclude:
+  - .bundle
+  - .github
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
+
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: item
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag

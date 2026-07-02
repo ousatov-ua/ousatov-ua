@@ -1,0 +1,13 @@
+---
+layout: page
+---
+
+{{ content }}
+
+{% if page.links %}
+  <div class="link-row">
+    {% for link in page.links %}
+      <a class="button button--secondary" href="{{ link.url }}">{{ link.label }}</a>
+    {% endfor %}
+  </div>
+{% endif %}

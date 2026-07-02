@@ -1,0 +1,23 @@
+{% assign profile = site.data.profile %}
+<aside class="profile-card">
+  <img src="{{ profile.avatar | relative_url }}" alt="{{ profile.name }} avatar">
+  <div>
+    <h2>{{ profile.name }}</h2>
+    <p>{{ profile.location }}</p>
+  </div>
+  <dl>
+    {% for metric in profile.metrics %}
+      <div>
+        <dt>{{ metric.label }}</dt>
+        <dd>{{ metric.value }}</dd>
+      </div>
+    {% endfor %}
+  </dl>
+  <div class="profile-card__links">
+    {% if profile.email %}<a href="mailto:{{ profile.email }}">Email</a>{% endif %}
+    {% if profile.github %}<a href="https://github.com/{{ profile.github }}">GitHub</a>{% endif %}
+    {% if profile.linkedin %}<a href="{{ profile.linkedin }}">LinkedIn</a>{% endif %}
+    {% if profile.google_scholar %}<a href="{{ profile.google_scholar }}">Scholar</a>{% endif %}
+    {% if profile.orcid %}<a href="{{ profile.orcid }}">ORCID</a>{% endif %}
+  </div>
+</aside>

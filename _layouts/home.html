@@ -1,0 +1,63 @@
+---
+layout: default
+---
+
+{% assign profile = site.data.profile %}
+
+<section class="hero">
+  <div class="hero__content">
+    {% include profile-card.html %}
+    <div class="hero__copy">
+      <p class="eyebrow">{{ profile.role }}</p>
+      <h1>{{ profile.name }}</h1>
+      <p class="lede">{{ profile.tagline }}</p>
+      <div class="hero__actions">
+        <a class="button" href="{{ '/about/' | relative_url }}">About</a>
+        <a class="button button--secondary" href="{{ '/cv/' | relative_url }}">CV</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="section__header">
+    <h2>Focus</h2>
+    <a href="{{ '/about/' | relative_url }}">Details</a>
+  </div>
+  <div class="pill-list">
+    {% for interest in profile.interests %}
+      <span>{{ interest }}</span>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="section">
+  <div class="section__header">
+    <h2>Featured projects</h2>
+    <a href="{{ '/portfolio/' | relative_url }}">All projects</a>
+  </div>
+  <div class="grid">
+    {% for project in site.data.projects limit:2 %}
+      <article class="card">
+        <p class="eyebrow">{{ project.status }}</p>
+        <h3>{{ project.title }}</h3>
+        <p>{{ project.summary }}</p>
+      </article>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="section">
+  <div class="section__header">
+    <h2>Recent publications</h2>
+    <a href="{{ '/publications/' | relative_url }}">All publications</a>
+  </div>
+  <div class="stack">
+    {% for publication in site.data.publications limit:3 %}
+      <article class="list-item">
+        <h3>{{ publication.title }}</h3>
+        <p>{{ publication.authors }} · {{ publication.venue }} · {{ publication.year }}</p>
+      </article>
+    {% endfor %}
+  </div>
+</section>
