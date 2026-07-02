@@ -5,7 +5,6 @@ microservices, and AI-assisted developer tooling.
 
 [Portfolio](https://ousatov-ua.github.io/ousatov-ua/) |
 [LinkedIn](https://www.linkedin.com/in/oleksiiusatov/) |
-[GitHub](https://github.com/ousatov-ua)
 
 ## What I Build
 
@@ -44,6 +43,8 @@ AI agents and LLM integrations       Developer tooling
   codebases.
 - [memgraph-ingester-mcp](https://github.com/ousatov-ua/memgraph-ingester-mcp) -
   MCP integration for Memgraph Ingester.
+- [lean-ctx](https://github.com/ousatov-ua/lean-ctx) - Lean Context Engineering 
+  for AI agents
 - [task-manager](https://github.com/ousatov-ua/task-manager) - lightweight
   Java 21/25 library for parallel task processing with built-in backpressure.
 - [pooltergeist](https://github.com/ousatov-ua/pooltergeist) - Java
