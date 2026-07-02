@@ -3,7 +3,6 @@
 Lead Backend Engineer building reliable distributed platforms, event-driven
 microservices, and AI-assisted developer tooling.
 
-[Portfolio](https://ousatov-ua.github.io/ousatov-ua/) |
 [LinkedIn](https://www.linkedin.com/in/oleksiiusatov/) |
 
 ## What I Build
