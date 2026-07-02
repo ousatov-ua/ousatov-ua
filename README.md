@@ -32,9 +32,9 @@ microservices, and AI-assisted developer tooling.
 | Backend and JVM | <img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="24" height="24" alt="Java"> Java &nbsp; <img src="https://cdn.simpleicons.org/springboot/6DB33F" width="24" height="24" alt="Spring Boot"> Spring Boot |
 | Streaming and Events | <img src="https://cdn.simpleicons.org/apachekafka/231F20" width="24" height="24" alt="Apache Kafka"> Apache Kafka &nbsp; <img src="https://cdn.simpleicons.org/apacheflink/E6526F" width="24" height="24" alt="Apache Flink"> Apache Flink |
 | Data and Storage | <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="24" height="24" alt="PostgreSQL"> PostgreSQL |
-| Cloud and Platform | <img src="https://cdn.simpleicons.org/amazonwebservices/232F3E" width="24" height="24" alt="AWS"> AWS &nbsp; <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="24" height="24" alt="Kubernetes"> Kubernetes &nbsp; <img src="https://cdn.simpleicons.org/docker/2496ED" width="24" height="24" alt="Docker"> Docker |
+| Cloud and Platform | <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonwebservices.svg" width="24" height="24" alt="AWS"> AWS &nbsp; <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="24" height="24" alt="Kubernetes"> Kubernetes &nbsp; <img src="https://cdn.simpleicons.org/docker/2496ED" width="24" height="24" alt="Docker"> Docker |
 | Observability | <img src="https://cdn.simpleicons.org/datadog/632CA6" width="24" height="24" alt="Datadog"> Datadog &nbsp; <img src="https://cdn.simpleicons.org/grafana/F46800" width="24" height="24" alt="Grafana"> Grafana |
-| AI and Developer Tooling | <img src="https://cdn.simpleicons.org/openai/412991" width="24" height="24" alt="OpenAI"> LLM integrations &nbsp; <img src="https://cdn.simpleicons.org/github/181717" width="24" height="24" alt="GitHub"> GitHub tooling |
+| AI and Developer Tooling | <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" width="24" height="24" alt="OpenAI"> LLM integrations &nbsp; <img src="https://cdn.simpleicons.org/github/181717" width="24" height="24" alt="GitHub"> GitHub tooling |
 
 ## Engineering Strengths
 
