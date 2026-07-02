@@ -27,14 +27,14 @@ microservices, and AI-assisted developer tooling.
 
 ## Technical Focus
 
-| Category | Tools and Systems |
-| --- | --- |
-| Backend and JVM | <img src="assets/icons/java.svg" width="24" height="24" alt="Java"> Java &nbsp; <img src="assets/icons/spring-boot.svg" width="24" height="24" alt="Spring Boot"> Spring Boot |
-| Streaming and Events | <img src="assets/icons/apache-kafka.svg" width="24" height="24" alt="Apache Kafka"> Apache Kafka &nbsp; <img src="assets/icons/apache-flink.svg" width="24" height="24" alt="Apache Flink"> Apache Flink |
-| Data and Storage | <img src="assets/icons/postgresql.svg" width="24" height="24" alt="PostgreSQL"> PostgreSQL &nbsp; <img src="assets/icons/mongodb.svg" width="24" height="24" alt="MongoDB"> MongoDB |
-| Cloud and Platform | <img src="assets/icons/aws.svg" width="24" height="24" alt="AWS"> AWS &nbsp; <img src="assets/icons/kubernetes.svg" width="24" height="24" alt="Kubernetes"> Kubernetes &nbsp; <img src="assets/icons/docker.svg" width="24" height="24" alt="Docker"> Docker |
-| Observability | <img src="assets/icons/datadog.svg" width="24" height="24" alt="Datadog"> Datadog &nbsp; <img src="assets/icons/grafana.svg" width="24" height="24" alt="Grafana"> Grafana |
-| AI and Developer Tooling | <img src="assets/icons/openai.svg" width="24" height="24" alt="OpenAI"> LLM integrations &nbsp; <img src="assets/icons/github.svg" width="24" height="24" alt="GitHub"> GitHub tooling |
+| Category | Tools and Systems                                                                                                                                                                                                                                              |
+| --- |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Backend and JVM | <img src="assets/icons/java.svg" width="24" height="24" alt="Java"> Java &nbsp; <img src="assets/icons/spring-boot.svg" width="24" height="24" alt="Spring Boot"> Spring Boot                                                                                  |
+| Streaming and Events | <img src="assets/icons/apache-kafka.svg" width="24" height="24" alt="Apache Kafka"> Apache Kafka &nbsp; <img src="assets/icons/apache-flink.svg" width="24" height="24" alt="Apache Flink"> Apache Flink                                                       |
+| Data and Storage | <img src="assets/icons/postgresql.svg" width="24" height="24" alt="PostgreSQL"> PostgreSQL &nbsp; <img src="assets/icons/mongodb.svg" width="24" height="24" alt="MongoDB"> MongoDB                                                                            |
+| Cloud and Platform | <img src="assets/icons/aws.svg" width="24" height="24" alt="AWS"> AWS &nbsp; <img src="assets/icons/kubernetes.svg" width="24" height="24" alt="Kubernetes"> Kubernetes &nbsp; <img src="assets/icons/docker.svg" width="24" height="24" alt="Docker"> Docker  |
+| Observability | <img src="assets/icons/datadog.svg" width="24" height="24" alt="Datadog"> Datadog &nbsp; <img src="assets/icons/grafana.svg" width="24" height="24" alt="Grafana"> Grafana                                                                                     |
+| AI and Developer Tooling | <img src="assets/icons/openai.svg" width="24" height="24" alt="OpenAI"> <img src="assets/icons/claude.svg" width="24" height="24" alt="Claude"> LLM integrations &nbsp; <img src="assets/icons/github.svg" width="24" height="24" alt="GitHub"> GitHub tooling |
 
 ## Engineering Strengths
 
